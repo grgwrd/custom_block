@@ -1,0 +1,7 @@
+name: might_also_like_block
+type: module
+description: 'Might Also Like Block'
+core_version_requirement: ^8.8.0 || ^9.0
+version: '1.0'
+dependencies:
+package: 'Aten Design Group'
