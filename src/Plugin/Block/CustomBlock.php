@@ -25,7 +25,7 @@ use Symfony\Component\DependencyInjection\ContainerInterface;
 
     $build = [
       '#theme' => 'custom_block',
-      '#related_products' => $text
+      '#text' => $text
     ];
 
     return $build;
